@@ -35,4 +35,26 @@ Follow these steps to set up and run the project:
 ```bash
 git clone https://github.com/Anas1657/hackathon-ROAD_LANE_DETECTION.git
 # Update: Added new section
+# Road Lane Detection Using OpenCV
+## Problem Statement
+Autonomous vehicles face challenges in identifying lane markings under varying lighting and road conditions. Failure to detect lanes accurately can lead to accidents and reduced driving efficiency.
+## Solution Overview
+This project uses Python and OpenCV to implement a robust lane detection system. The key steps involved are:
+- **Preprocessing** – Convert frames to grayscale and apply Gaussian blur.
+- **Edge Detection** – Use Canny Edge Detection to detect lane boundaries.
+- **Region of Interest (ROI)** – Mask the area of interest to focus on the road.
+- **Hough Transform** – Detect straight lines representing lane markers.
+- **Lane Overlay** – Draw the detected lanes on the original frame.
+## Setup & Installation
+1. **Clone the repository**:
+```bash
+git clone https://github.com/Anas1657/hackathon-ROAD_LANE_DETECTION.git
+## Usage Instructions
+- Ensure the input video file is available in the project folder.
+- Run the script using:
+```bash
+python lane2.py
+## Demo Link
+[Watch the Demo](https://your-demo-link.com)
+
 
