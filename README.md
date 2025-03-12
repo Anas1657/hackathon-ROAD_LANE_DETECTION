@@ -62,14 +62,14 @@ git clone https://github.com/Anas1657/hackathon-ROAD_LANE_DETECTION.git
 
 ## 🛠️ **Project Structure**  
 📂 Road_Lane_Detection
-├── frames/
-├── lane2.py
-├── lane_training.py
-├── requirements.txt
+├── .gitignore
+├── Concept Note_AI-Powered Road Lane & Object Detection System_Mohammad_Anas.pdf
+├── INSTALLATION.md
 ├── README.md
-└── .gitignore
-
-
+├── lane2.py
+├── test2.mp4
+└── test_image.jpg
+ 
 ---
 
 ## 🙌 **Contributors**  
