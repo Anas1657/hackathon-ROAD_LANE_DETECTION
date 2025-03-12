@@ -54,6 +54,22 @@ git clone https://github.com/Anas1657/hackathon-ROAD_LANE_DETECTION.git
 - Run the script using:
 ```bash
 python lane2.py
+
+---
+
+## **Step 6: Create `.gitignore`**
+Create a `.gitignore` file to prevent unnecessary files from being uploaded:
+
+**Example:**
+
+---
+
+## **Step 8: Upload and Commit**
+1. Add all files to the repository:
+```bash
+git add .
+
+
 ## Demo Link
 [Watch the Demo](https://your-demo-link.com)
 
