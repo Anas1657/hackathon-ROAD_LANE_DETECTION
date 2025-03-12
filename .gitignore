@@ -1,0 +1,15 @@
+# Ignore user files and system files
+Application Data/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Contacts/
+NTUSER.DAT*
+Thumbs.db
+*.log
+*.tmp
+*.ipynb_checkpoints/
